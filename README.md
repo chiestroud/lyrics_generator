@@ -6,4 +6,4 @@ Link to the deployed site:
 https://cs-lyrics-generator.netlify.app/
 
 ## Screenshot of the app
-<img src="./src/assets/lyrics.png" width="350">
+<img src="./src/assets/lyrics.png" width="600">
