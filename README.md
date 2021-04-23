@@ -1,5 +1,9 @@
-# React Template
+# Lyrics Generator using React
 
-Use this template to get up and running quickly on projects. 
-- For setting up this template, [follow these instructions](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-4-react/chapters/react-setup.md).
-- [Steps to deploy](https://github.com/nss-nightclass-projects/REACT-Deployment-Netlify)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/31df7163-8d2c-4d67-b47c-c082dc83842f/deploy-status)](https://app.netlify.com/sites/cs-lyrics-generator/deploys)
+
+Link to the deployed site:
+https://cs-lyrics-generator.netlify.app/
+
+## Screenshot of the app
+<img src="./src/assets/lyrics.png" width="350">
